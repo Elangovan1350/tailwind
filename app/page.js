@@ -7,6 +7,7 @@ export default function Home() {
       <p className="text-2xl"> Background</p>
       <h2>thuu thuuu thuuuuu</h2>
       <h4>vanamabasa</h4>
+      <p>faaffaafafaf</p>
     </main>
   );
 }
