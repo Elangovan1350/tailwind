@@ -8,6 +8,7 @@ export default function Home() {
       <h2>thuu thuuu thuuuuu</h2>
       <h4>vanamabasa</h4>
       <p>faaffaafafaf</p>
+      <span>ellllaaaannnnggggooooovvvvaaaannnnn</span>
     </main>
   );
 }
